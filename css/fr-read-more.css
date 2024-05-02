@@ -1,0 +1,26 @@
+.fr-readmore-toggle {
+	font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 36px;
+	background-color: #9b9b9b;
+    color: #fff;
+    border: 1px solid #7e7e7e;
+    width: 120px;
+    display: inline-block;
+    height: 40px;
+}
+.fr-readmore-toggle:hover{
+     cursor:pointer;
+}
+/* for Elementor heading default style*/
+.fr-readmore .elementor-heading-title {
+    color: #929292;
+    font-family: "Roboto", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.fr-readmore-more {
+    margin-top: 10px;
+}
